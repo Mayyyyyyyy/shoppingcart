@@ -17,8 +17,8 @@ const Cart = (props) => {
                )}
             </div>
             <div className='cartInfo'>
-               <p>total price:${totalPrice}</p>
-               <p>total item:{num}</p>
+               <h3>total price:${totalPrice}</h3>
+               <h3>total item:{num}</h3>
             </div>
         </div>
      );
