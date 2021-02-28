@@ -5,7 +5,7 @@ import shoefour from '../images/4.png';
 import shoefive from '../images/5.png';
 import shoesix from '../images/6.png';
 
-export default [
+export default[
     {
         img:shoeone,
         price:699
